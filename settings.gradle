@@ -1,3 +1,4 @@
 rootProject.name = 'file-manager-bot'
 
 include 'dispatcher'
+include 'common-rabbit'
